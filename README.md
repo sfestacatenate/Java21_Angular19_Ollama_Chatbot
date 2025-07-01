@@ -16,9 +16,9 @@ The chatbot is designed as a localized web application that delivers accurate, c
 
 | Layer       | Technology                            |
 |-------------|----------------------------------------|
-| Frontend    | Angular 19                             |
+| Frontend    | Angular 19 (Standalone component-based)                            |
 | Localization | `@ngx-translate/core` (client-side i18n) |
-| Backend     | Java 21 (RESTful API)                  |
+| Backend     | Java 21 (RESTful API, Spring Boot 3)                  |
 | LLM Engine  | Ollama                                 |
 | Language Model | Gemma 3 - 12B quantized              |
 
